@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace2\cohort2\c#\listExercises\obj\Debug\netcoreapp3.0\listExercises.csprojAssemblyReference.cache
+C:\Users\newforce\workspace2\cohort2\c#\listExercises\obj\Debug\netcoreapp3.0\listExercises.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace2\cohort2\c#\listExercises\obj\Debug\netcoreapp3.0\listExercises.AssemblyInfo.cs
+C:\Users\newforce\workspace2\cohort2\c#\listExercises\bin\Debug\netcoreapp3.0\listExercises.exe
+C:\Users\newforce\workspace2\cohort2\c#\listExercises\bin\Debug\netcoreapp3.0\listExercises.deps.json
+C:\Users\newforce\workspace2\cohort2\c#\listExercises\bin\Debug\netcoreapp3.0\listExercises.runtimeconfig.json
+C:\Users\newforce\workspace2\cohort2\c#\listExercises\bin\Debug\netcoreapp3.0\listExercises.runtimeconfig.dev.json
+C:\Users\newforce\workspace2\cohort2\c#\listExercises\bin\Debug\netcoreapp3.0\listExercises.dll
+C:\Users\newforce\workspace2\cohort2\c#\listExercises\bin\Debug\netcoreapp3.0\listExercises.pdb
+C:\Users\newforce\workspace2\cohort2\c#\listExercises\obj\Debug\netcoreapp3.0\listExercises.dll
+C:\Users\newforce\workspace2\cohort2\c#\listExercises\obj\Debug\netcoreapp3.0\listExercises.pdb
